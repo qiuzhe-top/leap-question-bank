@@ -47,34 +47,34 @@ admin	admin
 
 ### 登录
 
-![image-20220407083131625](images/image-20220407083131625.png)
+![image-20220407083131625]( https://ev20.oss-cn-hangzhou.aliyuncs.com/GiteeImage/image-20220407083131625.png)
 
 ### 首页
 
-![image-20220407083525183](images/image-20220407083525183.png)
+![image-20220407083525183]( https://ev20.oss-cn-hangzhou.aliyuncs.com/GiteeImage/image-20220407083525183.png)
 
 ### 题目记录分类
 
-![image-20220407083619989](images/image-20220407083619989.png)
+![image-20220407083619989]( https://ev20.oss-cn-hangzhou.aliyuncs.com/GiteeImage/image-20220407083619989.png)
 
 点击题目可以跳转到对应的题目页面
 
 ### 答题界面
 
-![image-20220407083724754](images/image-20220407083724754.png)
+![image-20220407083724754]( https://ev20.oss-cn-hangzhou.aliyuncs.com/GiteeImage/image-20220407083724754.png)
 
 ### 答题卡
 
-![image-20220407083748135](images/image-20220407083748135.png)
+![image-20220407083748135]( https://ev20.oss-cn-hangzhou.aliyuncs.com/GiteeImage/image-20220407083748135.png)
 
 ### 后台管理
 
-![image-20220407084010543](images/image-20220407084010543.png)
+![image-20220407084010543]( https://ev20.oss-cn-hangzhou.aliyuncs.com/GiteeImage/image-20220407084010543.png)
 
 ### 题目编辑
 
-![image-20220407084036942](images/image-20220407084036942.png)
+![image-20220407084036942]( https://ev20.oss-cn-hangzhou.aliyuncs.com/GiteeImage/image-20220407084036942.png)
 
 ### 选项设置
 
-![image-20220407084103708](images/image-20220407084103708.png)
+![image-20220407084103708]( https://ev20.oss-cn-hangzhou.aliyuncs.com/GiteeImage/image-20220407084103708.png)
